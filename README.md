@@ -1,6 +1,11 @@
 RetroCalc — Retro UNIX Terminal Chat Calculator
 ==============================================
 
+App demo
+-----------
+
+![Demo of RetroCalc in action](https://h3xxx.github.io/retrocalc/)
+
 Quick Start
 -----------
 
